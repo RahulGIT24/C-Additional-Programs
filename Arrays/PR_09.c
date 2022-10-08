@@ -1,5 +1,4 @@
 //* Find the leargest and smallest number in an array
-
 #include <stdio.h>
 
 int main()

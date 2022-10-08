@@ -1,5 +1,4 @@
 //* Copy all elements from an array to another array.
-
 #include <stdio.h>
 
 int main()

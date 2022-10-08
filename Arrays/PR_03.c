@@ -1,5 +1,4 @@
 //* Print all negative elements in an array.
-
 #include <stdio.h>
 
 int main()

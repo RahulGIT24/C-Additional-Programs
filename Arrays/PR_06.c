@@ -1,5 +1,4 @@
 //* Find the reverse of an array
-
 #include <stdio.h>
 void reverse(int array[], int n)
 {

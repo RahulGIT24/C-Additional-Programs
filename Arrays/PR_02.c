@@ -1,5 +1,4 @@
 // *Remove Duplicates Items In An Array
-
 #include <stdio.h>
 
 int main()

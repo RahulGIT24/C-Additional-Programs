@@ -1,5 +1,4 @@
 //* Count the total number of negative positive and zeroe's in an array
-
 #include <stdio.h>
 
 int main()

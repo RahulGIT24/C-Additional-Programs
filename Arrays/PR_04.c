@@ -1,5 +1,4 @@
 //* Put even and odd elements of an array in two separate arrays.
-
 #include <stdio.h>
 
 int main()
